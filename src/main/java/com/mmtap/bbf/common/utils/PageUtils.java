@@ -5,10 +5,10 @@ import java.util.List;
 
 /**
  * 分页工具类
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年11月4日 下午12:59:00
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class PageUtils implements Serializable {
 	private static final long serialVersionUID = 1L;

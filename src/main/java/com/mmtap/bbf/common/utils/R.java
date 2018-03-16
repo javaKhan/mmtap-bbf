@@ -7,10 +7,10 @@ import java.util.Map;
 
 /**
  * 返回数据
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年10月27日 下午9:59:27
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class R extends HashMap<String, Object> {
 	private static final long serialVersionUID = 1L;

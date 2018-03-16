@@ -17,10 +17,10 @@ import java.util.Map;
 
 /**
  * 用户
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2017-10-23 21:23:54
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @RestController
 @RequestMapping("/user")

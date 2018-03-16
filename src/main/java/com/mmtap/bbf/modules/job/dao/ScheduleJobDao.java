@@ -8,10 +8,10 @@ import java.util.Map;
 
 /**
  * 定时任务
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年12月1日 下午10:29:57
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Mapper
 public interface ScheduleJobDao extends BaseDao<ScheduleJobEntity> {

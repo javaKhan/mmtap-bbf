@@ -5,10 +5,10 @@ import com.mmtap.bbf.modules.sys.entity.SysUserTokenEntity;
 
 /**
  * 用户Token
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-23 15:22:07
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public interface SysUserTokenService {
 

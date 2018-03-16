@@ -3,7 +3,9 @@ package com.mmtap.bbf.common.utils;
 import java.util.Calendar;
 
 /**
- * Created by czx on 2017/9/19.
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class UUIDS {
 

@@ -8,9 +8,9 @@ import java.util.regex.Pattern;
 
 /**
  * 数据校验
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-23 15:50
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public abstract class Assert {
 

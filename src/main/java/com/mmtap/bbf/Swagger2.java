@@ -11,7 +11,9 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * Created by czx on 2017/10/31.
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Configuration
 @EnableSwagger2
@@ -29,7 +31,7 @@ public class Swagger2 {
                 //控制暴露出去的路径下的实例
                 //如果某个接口不想暴露,可以使用以下注解
                 //这样,该接口就不会暴露在 swagger2 的页面下
-                .apis(RequestHandlerSelectors.basePackage("com.suke.czx.modules.app"))
+                .apis(RequestHandlerSelectors.basePackage("com.mmtap.bbf.modules.app"))
                 .paths(PathSelectors.any())
                 .build();
     }
@@ -37,9 +39,9 @@ public class Swagger2 {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 //页面标题
-                .title("X-SpringBoot API")
+                .title("BBF API")
                 //创建人
-                .contact("czx")
+                .contact("mmtap.com")
                 //版本号
                 .version("1.0")
                 //描述

@@ -21,9 +21,9 @@ import java.util.Map;
 /**
  * Shiro配置
  *
- * @author czx
- * @email object_czx@163.com
- * @date 2017-04-20 18:33
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Configuration
 public class ShiroConfig {

@@ -7,10 +7,10 @@ import org.springframework.stereotype.Component;
 
 /**
  * Spring Context 工具类
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年11月29日 下午11:45:51
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Component
 public class SpringContextUtils implements ApplicationContextAware {

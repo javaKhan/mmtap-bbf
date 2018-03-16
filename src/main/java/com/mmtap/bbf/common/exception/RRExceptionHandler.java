@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
  * 异常处理器
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年10月27日 下午10:16:19
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @RestControllerAdvice
 public class RRExceptionHandler extends AppBaseResult {

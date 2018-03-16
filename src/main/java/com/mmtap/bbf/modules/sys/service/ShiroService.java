@@ -7,9 +7,9 @@ import java.util.Set;
 
 /**
  * shiro相关接口
- * @author czx
- * @email object_czx@163.com
- * @date 2017-06-06 8:49
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public interface ShiroService {
     /**

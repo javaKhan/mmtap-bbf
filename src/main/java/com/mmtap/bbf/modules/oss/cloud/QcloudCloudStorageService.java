@@ -14,9 +14,9 @@ import java.io.InputStream;
 
 /**
  * 腾讯云存储
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-26 20:51
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class QcloudCloudStorageService extends CloudStorageService {
     private COSClient client;

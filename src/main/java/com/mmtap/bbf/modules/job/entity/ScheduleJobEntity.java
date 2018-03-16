@@ -7,10 +7,10 @@ import java.util.Date;
 
 /**
  * 定时器
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年11月28日 下午12:54:44
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class ScheduleJobEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

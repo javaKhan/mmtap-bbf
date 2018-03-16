@@ -3,9 +3,9 @@ package com.mmtap.bbf.datasources;
 /**
  * 增加多数据源，在此配置
  *
- * @author czx
- * @email object_czx@163.com
- * @date 2017/8/18 23:46
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public interface DataSourceNames {
     String FIRST = "first";

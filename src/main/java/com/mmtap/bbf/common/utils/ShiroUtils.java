@@ -8,10 +8,9 @@ import org.apache.shiro.subject.Subject;
 
 /**
  * Shiro工具类
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年11月12日 上午9:49:19
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class ShiroUtils {
 

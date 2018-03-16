@@ -2,10 +2,10 @@ package com.mmtap.bbf.common.exception;
 
 /**
  * 自定义异常
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年10月27日 下午10:11:27
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

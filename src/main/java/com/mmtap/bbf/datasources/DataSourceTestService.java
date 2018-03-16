@@ -8,9 +8,9 @@ import org.springframework.stereotype.Service;
 
 /**
  * 测试
- * @author czx
- * @email object_czx@163.com
- * @date 2017/9/16 23:10
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Service
 public class DataSourceTestService {

@@ -22,10 +22,10 @@ import java.util.List;
 
 /**
  * APP版本管理
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2018-01-05 15:28:57
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Api(value = "API - AppUpdateController ", description = "APP版本管理")
 @RestController

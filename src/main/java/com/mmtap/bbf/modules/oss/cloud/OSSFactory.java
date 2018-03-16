@@ -7,9 +7,9 @@ import com.mmtap.bbf.modules.sys.service.SysConfigService;
 
 /**
  * 文件上传Factory
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-26 10:18
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public final class OSSFactory {
     private static SysConfigService sysConfigService;

@@ -15,9 +15,9 @@ import java.util.HashMap;
 
 /**
  * 注册
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-26 17:27
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @RestController
 @RequestMapping("/app")

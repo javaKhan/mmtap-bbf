@@ -7,10 +7,10 @@ import java.util.List;
 
 /**
  * 角色与菜单对应关系
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年9月18日 上午9:33:46
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Mapper
 public interface SysRoleMenuDao extends BaseDao<SysRoleMenuEntity> {

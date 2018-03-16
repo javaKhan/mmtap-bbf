@@ -16,10 +16,10 @@ import java.util.Map;
 
 /**
  * 系统参数信息
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年12月4日 下午6:55:53
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @RestController
 @RequestMapping("/sys/config")

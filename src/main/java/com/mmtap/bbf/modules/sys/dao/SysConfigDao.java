@@ -6,10 +6,10 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 系统配置信息
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年12月4日 下午6:46:16
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Mapper
 public interface SysConfigDao extends BaseDao<SysConfigEntity> {

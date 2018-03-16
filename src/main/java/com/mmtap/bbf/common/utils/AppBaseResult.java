@@ -10,8 +10,9 @@ import java.util.HashMap;
 
 /**
  * @category app返回类
- * @author czx 
- * 2017-04-25
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class AppBaseResult<T> implements Serializable {
 

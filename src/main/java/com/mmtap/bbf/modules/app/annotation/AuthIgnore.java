@@ -4,9 +4,9 @@ import java.lang.annotation.*;
 
 /**
  * api接口，忽略Token验证
- * @author czx
- * @email yzcheng90@qq.com
- * @date 2017-03-23 15:44
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

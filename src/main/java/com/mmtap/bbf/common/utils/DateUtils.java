@@ -9,10 +9,10 @@ import java.util.Locale;
 
 /**
  * 日期处理
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2017年12月21日 下午12:53:33
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class DateUtils {
     /** 时间格式(yyyy-MM-dd) */

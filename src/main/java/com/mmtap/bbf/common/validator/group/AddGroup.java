@@ -2,9 +2,9 @@ package com.mmtap.bbf.common.validator.group;
 
 /**
  * 新增数据 Group
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-16 0:04
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public interface AddGroup {
 }

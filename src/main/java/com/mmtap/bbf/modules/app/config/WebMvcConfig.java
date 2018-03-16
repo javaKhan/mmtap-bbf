@@ -13,9 +13,9 @@ import java.util.List;
 /**
  * MVC配置
  *
- * @author czx
- * @email object_czx@163.com
- * @date 2017-04-20 22:30
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter {

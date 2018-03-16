@@ -3,9 +3,9 @@ package com.mmtap.bbf.common.utils;
 /**
  * Redis所有Keys
  *
- * @author czx
- * @email object_czx@163.com
- * @date 2017-07-18 19:51
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 public class RedisKeys {
 

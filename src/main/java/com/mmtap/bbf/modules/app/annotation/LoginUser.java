@@ -8,9 +8,9 @@ import java.lang.annotation.Target;
 /**
  * 登录用户信息
  *
- * @author czx
- * @email object_czx@163.com
- * @date 2017-03-23 20:39
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Target(ElementType.PARAMETER)
 @Retention(RetentionPolicy.RUNTIME)

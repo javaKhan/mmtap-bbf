@@ -14,10 +14,10 @@ import java.util.Map;
 
 /**
  * 角色与菜单对应关系
- * 
- * @author czx
- * @email object_czx@163.com
- * @date 2016年9月18日 上午9:44:35
+ *
+ * @author mmtap.com
+ * @email java_khan@126.com
+ * @date 2018-03-15 10:45
  */
 @Service("sysRoleMenuService")
 public class SysRoleMenuServiceImpl implements SysRoleMenuService {
